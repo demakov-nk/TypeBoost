@@ -1,0 +1,285 @@
+{
+  "language": "en",
+  "lessons": [
+    {
+      "id": "en_home_row",
+      "title": "Home Row",
+      "description": "Learn the foundation of touch typing: the home row keys ASDF JKL;",
+      "layoutHint": "qwerty",
+      "difficulty": 1,
+      "passages": [
+        "aaa sss ddd fff jjj kkk lll",
+        "as df jk la sd fj kl al sk",
+        "add all ask dad fall glad lads",
+        "a sad lad; a glad lass; all falls"
+      ]
+    },
+    {
+      "id": "en_top_row",
+      "title": "Top Row",
+      "description": "Extend from the home row to the QWERTY top row",
+      "layoutHint": "qwerty",
+      "difficulty": 2,
+      "passages": [
+        "quit were type your",
+        "power quite enjoy fruit",
+        "work your proper query tower"
+      ]
+    },
+    {
+      "id": "en_bottom_row",
+      "title": "Bottom Row",
+      "description": "Practice the ZXCV bottom row keys",
+      "layoutHint": "qwerty",
+      "difficulty": 2,
+      "passages": [
+        "zap axe cave vex box",
+        "zinc exam cave bind",
+        "become vibe next zinc exam"
+      ]
+    },
+    {
+      "id": "en_full_alpha",
+      "title": "Full Alphabet",
+      "description": "All 26 letters - a comprehensive warm-up",
+      "layoutHint": "qwerty",
+      "difficulty": 3,
+      "passages": [
+        "the quick brown fox jumps over the lazy dog",
+        "pack my box with five dozen liquor jugs",
+        "how vexingly quick daft zebras jump"
+      ]
+    },
+    {
+      "id": "en_common_words",
+      "title": "Common Words",
+      "description": "The 100 most frequent English words for fluency",
+      "layoutHint": "qwerty",
+      "difficulty": 3,
+      "passages": [
+        "the of and a to in is you that it he was for on are with as his they",
+        "at be this have from or one had by word but not what all were we when",
+        "your can said there use an each which she do how their if will up other"
+      ]
+    },
+    {
+      "id": "en_numbers",
+      "title": "Numbers Row",
+      "description": "Practice the number row with mixed text",
+      "layoutHint": "qwerty",
+      "difficulty": 4,
+      "passages": [
+        "1234 5678 9012 3456",
+        "Call 555-1234 or visit room 42 on floor 3",
+        "Order 10 items at $2.50 each for a total of $25.00"
+      ]
+    },
+    {
+      "id": "en_punctuation",
+      "title": "Punctuation",
+      "description": "Commas, periods, question marks and more",
+      "layoutHint": "qwerty",
+      "difficulty": 4,
+      "passages": [
+        "Hello, world! How are you?",
+        "Wait: is this right? Yes, it is.",
+        "She said, \"Let's go now!\" and left."
+      ]
+    },
+    {
+      "id": "en_speed_burst",
+      "title": "Speed Burst",
+      "description": "Short high-frequency bursts to push your top speed",
+      "layoutHint": "qwerty",
+      "difficulty": 5,
+      "passages": [
+        "the the the and and and for for for",
+        "in time we find that hard work pays off",
+        "speed comes from practice and muscle memory"
+      ]
+    },
+    {
+      "id": "colemak_home_row",
+      "title": "Colemak Home Row",
+      "description": "Colemak home row: ARST NEIO",
+      "layoutHint": "colemak",
+      "difficulty": 1,
+      "passages": [
+        "aaa rrr sss ttt nnn eee iii ooo",
+        "ar st ne io ra ts en oi",
+        "iron sine tier roan snore rein",
+        "a tense ration; stern arson; inner iron"
+      ]
+    },
+    {
+      "id": "colemak_top_row",
+      "title": "Colemak Top Row",
+      "description": "Extend to the Colemak top row: QWFPG LUYJ",
+      "layoutHint": "colemak",
+      "difficulty": 2,
+      "passages": [
+        "flow plug queen gulf",
+        "fly up well fuel gulp",
+        "pull flow flee gulf query"
+      ]
+    },
+    {
+      "id": "colemak_full_alpha",
+      "title": "Colemak Full Alphabet",
+      "description": "All letters on Colemak layout",
+      "layoutHint": "colemak",
+      "difficulty": 3,
+      "passages": [
+        "the quick brown fox jumps over the lazy dog",
+        "soft quiet fingers glide over neat rows",
+        "strong arisen tones outline proper flow"
+      ]
+    },
+    {
+      "id": "colemak_common_words",
+      "title": "Colemak Common Words",
+      "description": "High-frequency words optimised for Colemak finger travel",
+      "layoutHint": "colemak",
+      "difficulty": 3,
+      "passages": [
+        "the of and a to in is you that it he was for on are with as his they",
+        "at be this have from or one had by word but not what all were we when",
+        "your can said there use an each which she do how their if will up other"
+      ]
+    },
+    {
+      "id": "colemak_speed_burst",
+      "title": "Colemak Speed Burst",
+      "description": "Fast common patterns on Colemak",
+      "layoutHint": "colemak",
+      "difficulty": 5,
+      "passages": [
+        "in on or are the and not for",
+        "neat stone risen front entire",
+        "strong quiet tones arise in the forest"
+      ]
+    },
+    {
+      "id": "dvorak_home_row",
+      "title": "Dvorak Home Row",
+      "description": "Dvorak home row: AOEU HTNS",
+      "layoutHint": "dvorak",
+      "difficulty": 1,
+      "passages": [
+        "aaa ooo eee uuu hhh ttt nnn sss",
+        "ao eu ht ns oa ue th sn",
+        "hunt tone snout tenth heath shone",
+        "a tenth hunt; the honest tune; that anon"
+      ]
+    },
+    {
+      "id": "dvorak_top_row",
+      "title": "Dvorak Top Row",
+      "description": "Extend to the Dvorak top row: ;,.P YFGCR",
+      "layoutHint": "dvorak",
+      "difficulty": 2,
+      "passages": [
+        "craft proof figure glory",
+        "grace frog fifty proof cycle",
+        "proof figure glory craft years"
+      ]
+    },
+    {
+      "id": "dvorak_full_alpha",
+      "title": "Dvorak Full Alphabet",
+      "description": "All letters on Dvorak layout",
+      "layoutHint": "dvorak",
+      "difficulty": 3,
+      "passages": [
+        "the quick brown fox jumps over the lazy dog",
+        "out of the house and into the sun",
+        "honest thought under the open northern sky"
+      ]
+    },
+    {
+      "id": "dvorak_common_words",
+      "title": "Dvorak Common Words",
+      "description": "High-frequency words optimised for Dvorak finger travel",
+      "layoutHint": "dvorak",
+      "difficulty": 3,
+      "passages": [
+        "the of and a to in is you that it he was for on are with as his they",
+        "at be this have from or one had by word but not what all were we when",
+        "your can said there use an each which she do how their if will up other"
+      ]
+    },
+    {
+      "id": "dvorak_speed_burst",
+      "title": "Dvorak Speed Burst",
+      "description": "Fast common patterns on Dvorak",
+      "layoutHint": "dvorak",
+      "difficulty": 5,
+      "passages": [
+        "out the and not one",
+        "house stone truth earth",
+        "under the southern sun the hunt goes on"
+      ]
+    },
+    {
+      "id": "workman_home_row",
+      "title": "Workman Home Row",
+      "description": "Workman home row: ARST NEIO",
+      "layoutHint": "workman",
+      "difficulty": 1,
+      "passages": [
+        "aaa rrr sss ttt nnn eee iii ooo",
+        "ar st ne io ra ts en oi",
+        "sort note rise rain stone",
+        "a short note on rain and stone"
+      ]
+    },
+    {
+      "id": "workman_top_row",
+      "title": "Workman Top Row",
+      "description": "Extend to the Workman top row: QDRW JFUP",
+      "layoutHint": "workman",
+      "difficulty": 2,
+      "passages": [
+        "drop word fur prod",
+        "word drop find pull",
+        "proud word found drop quick"
+      ]
+    },
+    {
+      "id": "workman_full_alpha",
+      "title": "Workman Full Alphabet",
+      "description": "All letters on Workman layout",
+      "layoutHint": "workman",
+      "difficulty": 3,
+      "passages": [
+        "the quick brown fox jumps over the lazy dog",
+        "short words flow from rested fingers",
+        "find the word and write it down with ease"
+      ]
+    },
+    {
+      "id": "workman_common_words",
+      "title": "Workman Common Words",
+      "description": "High-frequency words optimised for Workman finger travel",
+      "layoutHint": "workman",
+      "difficulty": 3,
+      "passages": [
+        "the of and a to in is you that it he was for on are with as his they",
+        "at be this have from or one had by word but not what all were we when",
+        "your can said there use an each which she do how their if will up other"
+      ]
+    },
+    {
+      "id": "workman_speed_burst",
+      "title": "Workman Speed Burst",
+      "description": "Fast common patterns on Workman",
+      "layoutHint": "workman",
+      "difficulty": 5,
+      "passages": [
+        "the and not for one",
+        "short words rest on strong rows",
+        "find the word and write it with ease"
+      ]
+    }
+  ]
+}
